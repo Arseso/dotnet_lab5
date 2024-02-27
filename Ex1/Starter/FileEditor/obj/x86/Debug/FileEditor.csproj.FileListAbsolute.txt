@@ -1,0 +1,14 @@
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\bin\Debug\FileEditor.exe.config
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\bin\Debug\FileEditor.exe
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\bin\Debug\FileEditor.pdb
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\FileEditor.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\App.g.cs
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\FileEditor.g.resources
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\FileEditor.Properties.Resources.resources
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\FileEditor.csproj.GenerateResource.cache
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\FileEditor.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\FileEditor.exe
+C:\Users\efrem\source\repos\Lab 5\Ex1\Starter\FileEditor\obj\x86\Debug\FileEditor.pdb

@@ -1,0 +1,13 @@
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\FileEditorXML.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\MainWindow.baml
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\MainWindow.g.cs
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\App.g.cs
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\FileEditorXML_MarkupCompile.cache
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\FileEditorXML.g.resources
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\FileEditorXML.Properties.Resources.resources
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\FileEditorXML.csproj.GenerateResource.cache
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\FileEditorXML.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\bin\Debug\FileEditorXML.exe
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\bin\Debug\FileEditorXML.pdb
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\FileEditorXML.exe
+C:\Users\efrem\source\repos\Lab 5\Ex2\Starter\FileEditorXML\obj\x86\Debug\FileEditorXML.pdb
